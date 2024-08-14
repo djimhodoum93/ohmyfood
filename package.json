@@ -1,0 +1,26 @@
+{
+  "name": "deuxieme-projet",
+  "version": "1.0.0",
+  "description": "openclassroom projet 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch style.scss style.css"
+    
+
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djimhodoum93/ohmyfood.git"
+  },
+  "author": "djimhodoum espoir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djimhodoum93/ohmyfood/issues"
+  },
+  "homepage": "https://github.com/djimhodoum93/ohmyfood#readme",
+  "devDependencies": {
+    "sass": "^1.77.8"
+  }
+}
